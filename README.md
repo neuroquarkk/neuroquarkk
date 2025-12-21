@@ -1,5 +1,34 @@
-<pre>
-> Learning with Machines
-> Code. Think. Repeat
-> Building things
-</pre>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=007ACC&text=NEUROQUARK&height=100&fontSize=40" />
+</p>
+
+<p align="center">
+  <b>Learning with Machines • Code. Think. Repeat • Building things</b>
+</p>
+
+<p align="center"><i>"At the end, it all comes down to figuring out and making things work"</i></p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neuroquarkk&bg_color=00000000&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neuroquarkk&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuroquarkk&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Top Langs" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://x.com/neuroquark">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/neuroquarkk">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>

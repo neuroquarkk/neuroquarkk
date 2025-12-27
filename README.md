@@ -17,8 +17,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neuroquarkk&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuroquarkk&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neuroquarkk&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neuroquarkk&theme=tokyonight" />
 </p>
 
 <br/>

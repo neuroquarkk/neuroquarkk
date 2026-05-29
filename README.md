@@ -11,12 +11,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neuroquarkk&bg_color=00000000&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neuroquarkk&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neuroquarkk&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neuroquarkk&theme=tokyonight" />
